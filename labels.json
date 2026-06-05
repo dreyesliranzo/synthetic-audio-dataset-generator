@@ -1,0 +1,438 @@
+{
+  "generated_at": "2026-06-05T03:21:42.909600",
+  "num_samples": 30,
+  "sample_rate": 16000,
+  "noise_types": [
+    "white",
+    "brown",
+    "crowd",
+    "static",
+    "hum"
+  ],
+  "snr_range_db": [
+    -5,
+    30
+  ],
+  "samples": [
+    {
+      "sample_id": 0,
+      "duration_sec": 3.417,
+      "sample_rate": 16000,
+      "snr_db": 23.63,
+      "noise_type": "brown",
+      "speech_rms_db": -19.7,
+      "noisy_rms_db": -19.68,
+      "files": {
+        "clean": "output\\audio\\clean\\sample_0000_clean.wav",
+        "noisy": "output\\audio\\noisy\\sample_0000_noisy.wav",
+        "noise_only": "output\\audio\\noise_only\\sample_0000_noise.wav"
+      }
+    },
+    {
+      "sample_id": 1,
+      "duration_sec": 2.346,
+      "sample_rate": 16000,
+      "snr_db": 1.37,
+      "noise_type": "white",
+      "speech_rms_db": -16.5,
+      "noisy_rms_db": -15.28,
+      "files": {
+        "clean": "output\\audio\\clean\\sample_0001_clean.wav",
+        "noisy": "output\\audio\\noisy\\sample_0001_noisy.wav",
+        "noise_only": "output\\audio\\noise_only\\sample_0001_noise.wav"
+      }
+    },
+    {
+      "sample_id": 2,
+      "duration_sec": 3.788,
+      "sample_rate": 16000,
+      "snr_db": 4.94,
+      "noise_type": "hum",
+      "speech_rms_db": -17.68,
+      "noisy_rms_db": -16.48,
+      "files": {
+        "clean": "output\\audio\\clean\\sample_0002_clean.wav",
+        "noisy": "output\\audio\\noisy\\sample_0002_noisy.wav",
+        "noise_only": "output\\audio\\noise_only\\sample_0002_noise.wav"
+      }
+    },
+    {
+      "sample_id": 3,
+      "duration_sec": 3.57,
+      "sample_rate": 16000,
+      "snr_db": 16.77,
+      "noise_type": "hum",
+      "speech_rms_db": -15.28,
+      "noisy_rms_db": -15.19,
+      "files": {
+        "clean": "output\\audio\\clean\\sample_0003_clean.wav",
+        "noisy": "output\\audio\\noisy\\sample_0003_noisy.wav",
+        "noise_only": "output\\audio\\noise_only\\sample_0003_noise.wav"
+      }
+    },
+    {
+      "sample_id": 4,
+      "duration_sec": 4.211,
+      "sample_rate": 16000,
+      "snr_db": 14.3,
+      "noise_type": "white",
+      "speech_rms_db": -17.09,
+      "noisy_rms_db": -16.93,
+      "files": {
+        "clean": "output\\audio\\clean\\sample_0004_clean.wav",
+        "noisy": "output\\audio\\noisy\\sample_0004_noisy.wav",
+        "noise_only": "output\\audio\\noise_only\\sample_0004_noise.wav"
+      }
+    },
+    {
+      "sample_id": 5,
+      "duration_sec": 2.769,
+      "sample_rate": 16000,
+      "snr_db": 15.43,
+      "noise_type": "crowd",
+      "speech_rms_db": -16.16,
+      "noisy_rms_db": -16.03,
+      "files": {
+        "clean": "output\\audio\\clean\\sample_0005_clean.wav",
+        "noisy": "output\\audio\\noisy\\sample_0005_noisy.wav",
+        "noise_only": "output\\audio\\noise_only\\sample_0005_noise.wav"
+      }
+    },
+    {
+      "sample_id": 6,
+      "duration_sec": 3.887,
+      "sample_rate": 16000,
+      "snr_db": 25.31,
+      "noise_type": "brown",
+      "speech_rms_db": -17.58,
+      "noisy_rms_db": -17.56,
+      "files": {
+        "clean": "output\\audio\\clean\\sample_0006_clean.wav",
+        "noisy": "output\\audio\\noisy\\sample_0006_noisy.wav",
+        "noise_only": "output\\audio\\noise_only\\sample_0006_noise.wav"
+      }
+    },
+    {
+      "sample_id": 7,
+      "duration_sec": 2.028,
+      "sample_rate": 16000,
+      "snr_db": 24.98,
+      "noise_type": "crowd",
+      "speech_rms_db": -16.68,
+      "noisy_rms_db": -16.68,
+      "files": {
+        "clean": "output\\audio\\clean\\sample_0007_clean.wav",
+        "noisy": "output\\audio\\noisy\\sample_0007_noisy.wav",
+        "noise_only": "output\\audio\\noise_only\\sample_0007_noise.wav"
+      }
+    },
+    {
+      "sample_id": 8,
+      "duration_sec": 4.394,
+      "sample_rate": 16000,
+      "snr_db": 3.51,
+      "noise_type": "brown",
+      "speech_rms_db": -17.35,
+      "noisy_rms_db": -15.75,
+      "files": {
+        "clean": "output\\audio\\clean\\sample_0008_clean.wav",
+        "noisy": "output\\audio\\noisy\\sample_0008_noisy.wav",
+        "noise_only": "output\\audio\\noise_only\\sample_0008_noise.wav"
+      }
+    },
+    {
+      "sample_id": 9,
+      "duration_sec": 3.013,
+      "sample_rate": 16000,
+      "snr_db": 18.32,
+      "noise_type": "crowd",
+      "speech_rms_db": -16.83,
+      "noisy_rms_db": -16.77,
+      "files": {
+        "clean": "output\\audio\\clean\\sample_0009_clean.wav",
+        "noisy": "output\\audio\\noisy\\sample_0009_noisy.wav",
+        "noise_only": "output\\audio\\noise_only\\sample_0009_noise.wav"
+      }
+    },
+    {
+      "sample_id": 10,
+      "duration_sec": 2.05,
+      "sample_rate": 16000,
+      "snr_db": -1.83,
+      "noise_type": "static",
+      "speech_rms_db": -18.76,
+      "noisy_rms_db": -15.43,
+      "files": {
+        "clean": "output\\audio\\clean\\sample_0010_clean.wav",
+        "noisy": "output\\audio\\noisy\\sample_0010_noisy.wav",
+        "noise_only": "output\\audio\\noise_only\\sample_0010_noise.wav"
+      }
+    },
+    {
+      "sample_id": 11,
+      "duration_sec": 2.066,
+      "sample_rate": 16000,
+      "snr_db": 12.73,
+      "noise_type": "static",
+      "speech_rms_db": -18.86,
+      "noisy_rms_db": -18.64,
+      "files": {
+        "clean": "output\\audio\\clean\\sample_0011_clean.wav",
+        "noisy": "output\\audio\\noisy\\sample_0011_noisy.wav",
+        "noise_only": "output\\audio\\noise_only\\sample_0011_noise.wav"
+      }
+    },
+    {
+      "sample_id": 12,
+      "duration_sec": 3.006,
+      "sample_rate": 16000,
+      "snr_db": -2.99,
+      "noise_type": "static",
+      "speech_rms_db": -14.85,
+      "noisy_rms_db": -13.61,
+      "files": {
+        "clean": "output\\audio\\clean\\sample_0012_clean.wav",
+        "noisy": "output\\audio\\noisy\\sample_0012_noisy.wav",
+        "noise_only": "output\\audio\\noise_only\\sample_0012_noise.wav"
+      }
+    },
+    {
+      "sample_id": 13,
+      "duration_sec": 4.416,
+      "sample_rate": 16000,
+      "snr_db": 1.72,
+      "noise_type": "brown",
+      "speech_rms_db": -15.37,
+      "noisy_rms_db": -13.21,
+      "files": {
+        "clean": "output\\audio\\clean\\sample_0013_clean.wav",
+        "noisy": "output\\audio\\noisy\\sample_0013_noisy.wav",
+        "noise_only": "output\\audio\\noise_only\\sample_0013_noise.wav"
+      }
+    },
+    {
+      "sample_id": 14,
+      "duration_sec": 3.037,
+      "sample_rate": 16000,
+      "snr_db": 10.89,
+      "noise_type": "white",
+      "speech_rms_db": -17.82,
+      "noisy_rms_db": -17.47,
+      "files": {
+        "clean": "output\\audio\\clean\\sample_0014_clean.wav",
+        "noisy": "output\\audio\\noisy\\sample_0014_noisy.wav",
+        "noise_only": "output\\audio\\noise_only\\sample_0014_noise.wav"
+      }
+    },
+    {
+      "sample_id": 15,
+      "duration_sec": 2.695,
+      "sample_rate": 16000,
+      "snr_db": 7.59,
+      "noise_type": "white",
+      "speech_rms_db": -17.59,
+      "noisy_rms_db": -16.91,
+      "files": {
+        "clean": "output\\audio\\clean\\sample_0015_clean.wav",
+        "noisy": "output\\audio\\noisy\\sample_0015_noisy.wav",
+        "noise_only": "output\\audio\\noise_only\\sample_0015_noise.wav"
+      }
+    },
+    {
+      "sample_id": 16,
+      "duration_sec": 4.584,
+      "sample_rate": 16000,
+      "snr_db": 1.83,
+      "noise_type": "brown",
+      "speech_rms_db": -15.76,
+      "noisy_rms_db": -13.7,
+      "files": {
+        "clean": "output\\audio\\clean\\sample_0016_clean.wav",
+        "noisy": "output\\audio\\noisy\\sample_0016_noisy.wav",
+        "noise_only": "output\\audio\\noise_only\\sample_0016_noise.wav"
+      }
+    },
+    {
+      "sample_id": 17,
+      "duration_sec": 2.455,
+      "sample_rate": 16000,
+      "snr_db": 1.56,
+      "noise_type": "static",
+      "speech_rms_db": -18.3,
+      "noisy_rms_db": -16.31,
+      "files": {
+        "clean": "output\\audio\\clean\\sample_0017_clean.wav",
+        "noisy": "output\\audio\\noisy\\sample_0017_noisy.wav",
+        "noise_only": "output\\audio\\noise_only\\sample_0017_noise.wav"
+      }
+    },
+    {
+      "sample_id": 18,
+      "duration_sec": 2.801,
+      "sample_rate": 16000,
+      "snr_db": -0.28,
+      "noise_type": "crowd",
+      "speech_rms_db": -17.26,
+      "noisy_rms_db": -18.53,
+      "files": {
+        "clean": "output\\audio\\clean\\sample_0018_clean.wav",
+        "noisy": "output\\audio\\noisy\\sample_0018_noisy.wav",
+        "noise_only": "output\\audio\\noise_only\\sample_0018_noise.wav"
+      }
+    },
+    {
+      "sample_id": 19,
+      "duration_sec": 4.63,
+      "sample_rate": 16000,
+      "snr_db": -1.39,
+      "noise_type": "static",
+      "speech_rms_db": -17.25,
+      "noisy_rms_db": -14.85,
+      "files": {
+        "clean": "output\\audio\\clean\\sample_0019_clean.wav",
+        "noisy": "output\\audio\\noisy\\sample_0019_noisy.wav",
+        "noise_only": "output\\audio\\noise_only\\sample_0019_noise.wav"
+      }
+    },
+    {
+      "sample_id": 20,
+      "duration_sec": 2.305,
+      "sample_rate": 16000,
+      "snr_db": 21.22,
+      "noise_type": "static",
+      "speech_rms_db": -17.96,
+      "noisy_rms_db": -17.92,
+      "files": {
+        "clean": "output\\audio\\clean\\sample_0020_clean.wav",
+        "noisy": "output\\audio\\noisy\\sample_0020_noisy.wav",
+        "noise_only": "output\\audio\\noise_only\\sample_0020_noise.wav"
+      }
+    },
+    {
+      "sample_id": 21,
+      "duration_sec": 2.029,
+      "sample_rate": 16000,
+      "snr_db": 9.87,
+      "noise_type": "crowd",
+      "speech_rms_db": -19.19,
+      "noisy_rms_db": -18.79,
+      "files": {
+        "clean": "output\\audio\\clean\\sample_0021_clean.wav",
+        "noisy": "output\\audio\\noisy\\sample_0021_noisy.wav",
+        "noise_only": "output\\audio\\noise_only\\sample_0021_noise.wav"
+      }
+    },
+    {
+      "sample_id": 22,
+      "duration_sec": 2.403,
+      "sample_rate": 16000,
+      "snr_db": 26.6,
+      "noise_type": "hum",
+      "speech_rms_db": -17.9,
+      "noisy_rms_db": -17.89,
+      "files": {
+        "clean": "output\\audio\\clean\\sample_0022_clean.wav",
+        "noisy": "output\\audio\\noisy\\sample_0022_noisy.wav",
+        "noise_only": "output\\audio\\noise_only\\sample_0022_noise.wav"
+      }
+    },
+    {
+      "sample_id": 23,
+      "duration_sec": 2.98,
+      "sample_rate": 16000,
+      "snr_db": 24.16,
+      "noise_type": "static",
+      "speech_rms_db": -18.11,
+      "noisy_rms_db": -18.1,
+      "files": {
+        "clean": "output\\audio\\clean\\sample_0023_clean.wav",
+        "noisy": "output\\audio\\noisy\\sample_0023_noisy.wav",
+        "noise_only": "output\\audio\\noise_only\\sample_0023_noise.wav"
+      }
+    },
+    {
+      "sample_id": 24,
+      "duration_sec": 3.954,
+      "sample_rate": 16000,
+      "snr_db": 5.41,
+      "noise_type": "crowd",
+      "speech_rms_db": -17.22,
+      "noisy_rms_db": -16.37,
+      "files": {
+        "clean": "output\\audio\\clean\\sample_0024_clean.wav",
+        "noisy": "output\\audio\\noisy\\sample_0024_noisy.wav",
+        "noise_only": "output\\audio\\noise_only\\sample_0024_noise.wav"
+      }
+    },
+    {
+      "sample_id": 25,
+      "duration_sec": 3.067,
+      "sample_rate": 16000,
+      "snr_db": 14.23,
+      "noise_type": "hum",
+      "speech_rms_db": -16.48,
+      "noisy_rms_db": -16.32,
+      "files": {
+        "clean": "output\\audio\\clean\\sample_0025_clean.wav",
+        "noisy": "output\\audio\\noisy\\sample_0025_noisy.wav",
+        "noise_only": "output\\audio\\noise_only\\sample_0025_noise.wav"
+      }
+    },
+    {
+      "sample_id": 26,
+      "duration_sec": 3.45,
+      "sample_rate": 16000,
+      "snr_db": -3.56,
+      "noise_type": "white",
+      "speech_rms_db": -18.64,
+      "noisy_rms_db": -15.18,
+      "files": {
+        "clean": "output\\audio\\clean\\sample_0026_clean.wav",
+        "noisy": "output\\audio\\noisy\\sample_0026_noisy.wav",
+        "noise_only": "output\\audio\\noise_only\\sample_0026_noise.wav"
+      }
+    },
+    {
+      "sample_id": 27,
+      "duration_sec": 3.45,
+      "sample_rate": 16000,
+      "snr_db": 10.31,
+      "noise_type": "white",
+      "speech_rms_db": -17.89,
+      "noisy_rms_db": -17.5,
+      "files": {
+        "clean": "output\\audio\\clean\\sample_0027_clean.wav",
+        "noisy": "output\\audio\\noisy\\sample_0027_noisy.wav",
+        "noise_only": "output\\audio\\noise_only\\sample_0027_noise.wav"
+      }
+    },
+    {
+      "sample_id": 28,
+      "duration_sec": 4.466,
+      "sample_rate": 16000,
+      "snr_db": 19.41,
+      "noise_type": "crowd",
+      "speech_rms_db": -16.56,
+      "noisy_rms_db": -16.51,
+      "files": {
+        "clean": "output\\audio\\clean\\sample_0028_clean.wav",
+        "noisy": "output\\audio\\noisy\\sample_0028_noisy.wav",
+        "noise_only": "output\\audio\\noise_only\\sample_0028_noise.wav"
+      }
+    },
+    {
+      "sample_id": 29,
+      "duration_sec": 3.121,
+      "sample_rate": 16000,
+      "snr_db": 29.77,
+      "noise_type": "hum",
+      "speech_rms_db": -17.43,
+      "noisy_rms_db": -17.43,
+      "files": {
+        "clean": "output\\audio\\clean\\sample_0029_clean.wav",
+        "noisy": "output\\audio\\noisy\\sample_0029_noisy.wav",
+        "noise_only": "output\\audio\\noise_only\\sample_0029_noise.wav"
+      }
+    }
+  ]
+}
